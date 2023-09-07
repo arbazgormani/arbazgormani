@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **arbaz.khan.gormani@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1NtadjZGrANofRkYopxp36ZJ9vVldeVhj/view](https://drive.google.com/file/d/1NtadjZGrANofRkYopxp36ZJ9vVldeVhj/view)
+- 📄 Know about my experiences [Click on Resume](https://drive.google.com/file/d/1k0pRBGY2EYB68tWPOEkqr5QTImTv2SOA/view?usp=drive_link) 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
