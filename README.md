@@ -5,11 +5,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arbazgormani" alt="arbazgormani" /></a> </p>
 
-- 🔭 I’m working on **Data augmentation using stable diffusion**
+- 🔭 I’m working with **Pytorch, Tensorflow frameworks.**
 
-- 🌱 I’m currently learning **Pytorch, Tensorflow**
 
-- 💬 Ask me about **Machine Learning, AI, Data Science, Computer Vision, NLP**
+- 💬 Ask me about **Machine Learning, AI, Data Science, NLP, Computer Vision**
 
 - 📫 How to reach me **arbaz.khan.gormani@gmail.com**
 
