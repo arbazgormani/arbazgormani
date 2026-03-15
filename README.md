@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Machine Learning, AI, Data Science, NLP, Computer Vision**
 
-- 📫 How to reach me **arbaz.khan.gormani@gmail.com**
+- 📫 How to reach me **marbaz.gormani@gmail.com**
 
 - 📄 Know about my experiences [Click on Resume](https://drive.google.com/file/d/1k0pRBGY2EYB68tWPOEkqr5QTImTv2SOA/view?usp=drive_link) 
 
